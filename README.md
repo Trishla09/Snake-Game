@@ -24,3 +24,5 @@ Move the snake, eat food, and try to get the highest score — but don’t hit t
 | ⬅️ | Move Left |
 | ➡️ | Move Right |
 | Spacebar | Pause / Resume Game |
+
+Live Demo: https://trishla09.github.io/Snake-Game/
